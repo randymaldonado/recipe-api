@@ -1,0 +1,22 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randymaldonado/recipe-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randymaldonado/recipe-api/issues"
+  },
+  "homepage": "https://github.com/randymaldonado/recipe-api#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
